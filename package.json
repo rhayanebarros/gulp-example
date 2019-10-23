@@ -12,5 +12,10 @@
     "browser-sync": "^2.24.6",
     "gulp": "^3.9.1",
     "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "lodash.defaultsdeep": "^4.6.1",
+    "lodash.merge": "^4.6.2",
+    "lodash.mergewith": "^4.6.2"
   }
 }
